@@ -12,7 +12,7 @@ import java.time.Month;
  *
  * @author sauld
  */
-public class Kata1 {
+public class Kata1 { 
     /**
      * @param args the command line arguments
      */
